@@ -117,4 +117,3 @@ function debugTest() {
 - Credentials are stored in Script Properties, not in the code
 - Google provides free hosting — no server needed
 
-## Project structure
